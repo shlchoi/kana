@@ -220,6 +220,16 @@
         "romanization": "wa"
     },
     {
+        "char_id": "wi",
+        "character": "ゐ",
+        "romanization": "wi"
+    },
+    {
+        "char_id": "we",
+        "character": "ゑ",
+        "romanization": "we"
+    },
+    {
         "char_id": "wo",
         "character": "を",
         "romanization": "wo"
