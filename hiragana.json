@@ -235,7 +235,7 @@
         "romanization": "wo"
     },
     {
-        "char_id": "n",
+        "char_id": "-n",
         "character": "ん",
         "romanization": "n"
     },
@@ -400,17 +400,17 @@
         "romanization": "sho"
     },
     {
-        "char_id": "cya",
+        "char_id": "tya",
         "character": "ちゃ",
         "romanization": "cha"
     },
     {
-        "char_id": "cyu",
+        "char_id": "tyu",
         "character": "ちゅ",
         "romanization": "chu"
     },
     {
-        "char_id": "cyo",
+        "char_id": "tyo",
         "character": "ちょ",
         "romanization": "cho"
     },
