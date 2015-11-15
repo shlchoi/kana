@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ca.uwaterloo.sh6choi.kana.views.KanaDrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <!-- The navigation drawer -->
+    <include layout="@layout/view_drawer_menu"/>
+
+    <!-- The main content view -->
+    <LinearLayout
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_marginLeft="50dp"
+        tools:layout_marginRight="-50dp">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/UpArrowStyle"
+            android:theme="@style/UpArrowStyle"
+            app:theme="@style/UpArrowStyle">
+
+        <TextView
+            android:id="@+id/toolbar_action_tv"
+            style="@style/toolbar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:includeFontPadding="false"
+            android:textColor="@android:color/white"
+            tools:text="@string/nav_menu_kana" />
+
+        </android.support.v7.widget.Toolbar>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <!-- fragment container -->
+            <FrameLayout
+                android:id="@+id/fragment_container"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/actionbar_shadow"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</ca.uwaterloo.sh6choi.kana.views.KanaDrawerLayout>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Kana</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_menu_kana">Kana</string>
+    <string name="nav_menu_quiz">Quiz</string>
+    <string name="nav_menu_dictation">Dictation</string>
+
+    <string name="toolbar_title_character_lookup">Character Lookup</string>
+    <string name="toolbar_title_flashcards">Flashcards</string>
+
+    <string name="lookup_tab_hiragana">Hiragana</string>
+    <string name="lookup_tab_katakana">Katakana</string>
+
+    <string name="quiz_hiragana">Hiragana Quiz</string>
+    <string name="quiz_katakana">Katakana Quiz</string>
+    <string name="quiz_hiragana_entry">Hiragana Entry</string>
+    <string name="quiz_katakana_entry">Katakana Entry</string>
+
+    <string name="check">Check</string>
+
+    <string name="kana_lookup">Character Lookup</string>
+    <string name="hiragana_flashcards">Hiragana Flashcards</string>
+    <string name="katakana_flashcards">Katakana Flashcards</string>
+
+    <string name="error_vocab_incorrect">Incorrect</string>
+
+    <string name="menu_refresh">Refresh</string>
+
+
+    <string-array name="dictation_set_1">
+        <item>たなか</item>
+        <item>やまもと</item>
+        <item>あかい</item>
+        <item>はしもと</item>
+        <item>たかはし</item>
+        <item>なかむら</item>
+        <item>もりかわ</item>
+        <item>さくま</item>
+        <item>さっぽろ</item>
+        <item>きょうと</item>
+        <item>かなざわ</item>
+        <item>おおさか</item>
+        <item>ながさき</item>
+        <item>ぎふ</item>
+        <item>べっぷ</item>
+        <item>ちば</item>
+    </string-array>
+</resources>

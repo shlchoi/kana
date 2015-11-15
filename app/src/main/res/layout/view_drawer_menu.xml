@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="@dimen/menu_remainder_margin"
+    android:orientation="vertical">
+
+    <!--<include layout="@layout/list_item_nav_header"/>-->
+
+    <ListView
+        android:id="@+id/navigation_drawer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/navBackground"
+        android:choiceMode="singleChoice"
+        android:divider="@android:color/darker_gray"
+        android:dividerHeight="1px"
+        android:drawSelectorOnTop="@bool/should_draw_selector_on_top"
+        android:listSelector="@drawable/selector_nav_menu_dark"
+        tools:header="@layout/list_item_nav_header"
+        tools:listitem="@layout/list_item_nav_menu" />
+
+</LinearLayout>

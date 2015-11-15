@@ -1,0 +1,164 @@
+[
+    {
+        "number": 0,
+        "kanji": "零",
+        "kun-yomi": [
+            "れい"
+        ],
+        "on-yomi": [
+            "ゼロ"
+        ]
+    },
+    {
+        "number": 1,
+        "kanji": "一",
+        "kun-yomi": [
+            "ひと"
+        ],
+        "on-yomi": [
+            "イチ",
+            "イッ"
+        ]
+    },
+    {
+        "number": 2,
+        "kanji": "二",
+        "kun-yomi": [
+            "ふた"
+        ],
+        "on-yomi": [
+            "ニ"
+        ]
+    },
+    {
+        "number": 3,
+        "kanji": "三",
+        "kun-yomi": [
+            "みっ"
+        ],
+        "on-yomi": [
+            "サン"
+        ]
+    },
+    {
+        "number": 4,
+        "kanji": "四",
+        "kun-yomi": [
+            "よん",
+            "よ",
+            "よっ"
+        ],
+        "on-yomi": [
+            "シ"
+        ]
+    },
+    {
+        "number": 5,
+        "kanji": "五",
+        "kun-yomi": [
+            "いつ"
+        ],
+        "on-yomi": [
+            "ゴ"
+        ]
+    },
+    {
+        "number": 6,
+        "kanji": "六",
+        "kun-yomi": [
+            "むっ"
+        ],
+        "on-yomi": [
+            "ロク",
+            "ロッ"
+        ]
+    },
+    {
+        "number": 7,
+        "kanji": "七",
+        "kun-yomi": [
+            "なな"
+        ],
+        "on-yomi": [
+            "シチ"
+        ]
+    },
+    {
+        "number": 8,
+        "kanji": "八",
+        "kun-yomi": [
+            "やっ"
+        ],
+        "on-yomi": [
+            "ハチ",
+            "ハッ"
+        ]
+    },
+    {
+        "number": 9,
+        "kanji": "九",
+        "kun-yomi": [
+            "ここの"
+        ],
+        "on-yomi": [
+            "キュウ",
+            "ク"
+        ]
+    },
+    {
+        "number": 10,
+        "kanji": "十",
+        "kun-yomi": [
+            "とむ"
+        ],
+        "on-yomi": [
+            "ジュウ",
+            "ジュッ"
+        ]
+    },
+    {
+        "number": 20,
+        "kun-yomi": [
+            "はた"
+        ]
+    },
+    {
+        "number": 30,
+        "kun-yomi": [
+            "みそ"
+        ]
+    },
+    {
+        "number": 100,
+        "kanji": "百",
+        "kun-yomi": [
+            "もも"
+        ],
+        "on-yomi": [
+            "ヒャク",
+            "ピャク",
+            "ビャク"
+        ]
+    },
+    {
+        "number": 1000,
+        "kanji": "千",
+        "kun-yomi": [
+            "ち"
+        ],
+        "on-yomi": [
+            "セン",
+            "ゼン"
+        ]
+    },
+    {
+        "number": 10000,
+        "kanji": "万",
+        "kun-yomi": [
+            "よとず"
+        ],
+        "on-yomi": [
+            "マン"
+        ]
+    }
+]

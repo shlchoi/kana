@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="should_draw_selector_on_top">false</bool>
+</resources>

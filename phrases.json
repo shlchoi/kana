@@ -1,0 +1,23 @@
+[
+    {
+        "lesson_id": 1,
+        "words": [
+            {
+                "phrase_id" : 100,
+                "kana": "おはよう",
+                "alternate":"お早う",
+                "definitions": [
+                    "good morning (casual)"
+                ]
+            },
+            {
+                "phrase_id" : 101,
+                "kana": "おはようございます",
+                "alternate":"お早うございます",
+                "definitions": [
+                    "good morning (formal)"
+                ]
+            }
+        ]
+    }
+]

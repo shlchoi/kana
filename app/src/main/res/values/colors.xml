@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#ffbc002D</color>
+    <color name="colorPrimaryDark">#ff40000f</color>
+    <color name="colorPrimaryLight">#ffe50037</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+    <color name="colorAccentDark">@color/colorPrimaryDark</color>
+    <color name="colorAccentLight">@color/colorPrimaryLight</color>
+
+    <color name="disabled">#ffcad1d6</color>
+
+    <color name="primaryForegroundColor">@android:color/white</color>
+    <color name="textColorPrimary">#ff5f6062</color>
+    <color name="textColorSecondary">#ff858585</color>
+
+    <color name="actionbarDropShadow">#33000000</color>
+    <color name="actionbarDropShadowCenter">#11000000</color>
+    <color name="greyBackground">#ffefefef</color>
+
+    <!-- NAVIGATION MENU -->
+    <color name="navBackground">@android:color/white</color>
+    <color name="navTextColor">#ff858585</color>
+    <color name="navTextColorDisabled">#ffcad1d6</color>
+    <color name="navHeaderBackground">@android:color/white</color>
+    <color name="transparentWhite30">#40ffffff</color>
+</resources>

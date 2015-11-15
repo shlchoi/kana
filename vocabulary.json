@@ -1,0 +1,214 @@
+[
+    {
+        "lesson_id": 1,
+        "words": [
+            {
+                "word_id" : 100,
+                "kana": "あの",
+                "definitions": [
+                    "um"
+                ]
+            },
+            {
+                "word_id" : 101,
+                "kana": "いま",
+                "definitions": [
+                    "now"
+                ]
+            },
+            {
+                "word_id" : 102,
+                "kana": "えいご",
+                "definitions": [
+                    "English language"
+                ]
+            },
+            {
+                "word_id" : 103,
+                "kana": "ええ",
+                "definitions": [
+                    "yes"
+                ]
+            },
+            {
+                "word_id" : 104,
+                "kana": "がくせい",
+                "definitions": [
+                    "student"
+                ]
+            },
+            {
+                "word_id" : 105,
+                "kana": "ご",
+                "definitions": [
+                    "language"
+                ]
+            },
+            {
+                "word_id" : 106,
+                "kana": "こうこう",
+                "definitions": [
+                    "high school"
+                ]
+            },
+            {
+                "word_id" : 107,
+                "kana": "ごご",
+                "definitions": [
+                    "P.M."
+                ]
+            },
+            {
+                "word_id" : 108,
+                "kana": "ごぜん",
+                "definitions": [
+                    "A.M."
+                ]
+            },
+            {
+                "word_id" : 109,
+                "kana": "さい",
+                "definitions": [
+                    "years old"
+                ]
+            },
+            {
+                "word_id" : 110,
+                "kana": "さん",
+                "definitions": [
+                    "Mr.",
+                    "Mrs."
+                ]
+            },
+            {
+                "word_id" : 111,
+                "kana": "じ",
+                "definitions": [
+                    "o'clock"
+                ]
+            },
+            {
+                "word_id" : 112,
+                "kana": "じん",
+                "definitions": [
+                    "person",
+                    "people"
+                ]
+            },
+            {
+                "word_id" : 113,
+                "kana": "せんせい",
+                "definitions": [
+                    "teacher",
+                    "professor"
+                ]
+            },
+            {
+                "word_id" : 114,
+                "kana": "せんもん",
+                "definitions": [
+                    "major"
+                ]
+            },
+            {
+                "word_id" : 115,
+                "kana": "そおです",
+                "definitions": [
+                    "that's right"
+                ]
+            },
+            {
+                "word_id" : 116,
+                "kana": "だいがく",
+                "definitions": [
+                    "college",
+                    "university"
+                ]
+            },
+            {
+                "word_id" : 117,
+                "kana": "でんわ",
+                "definitions": [
+                    "telephone"
+                ]
+            },
+            {
+                "word_id" : 118,
+                "kana": "ともだち",
+                "definitions": [
+                    "friend"
+                ]
+            },
+            {
+                "word_id" : 119,
+                "kana": "なまえ",
+                "definitions": [
+                    "name"
+                ]
+            },
+            {
+                "word_id" : 120,
+                "kana": "なん",
+                "definitions": [
+                    "what"
+                ]
+            },
+            {
+                "word_id" : 121,
+                "kana": "なに",
+                "definitions": [
+                    "what"
+                ]
+            },
+            {
+                "word_id" : 122,
+                "kana": "にほん",
+                "definitions": [
+                    "Japan"
+                ]
+            },
+            {
+                "word_id" : 123,
+                "kana": "ねんせい",
+                "definitions": [
+                    "... year student"
+                ]
+            },
+            {
+                "word_id" : 124,
+                "kana": "はい",
+                "definitions": [
+                    "yes"
+                ]
+            },
+            {
+                "word_id" : 125,
+                "kana": "はん",
+                "definitions": [
+                    "half"
+                ]
+            },
+            {
+                "word_id" : 126,
+                "kana": "ばんごう",
+                "definitions": [
+                    "number"
+                ]
+            },
+            {
+                "word_id" : 127,
+                "kana": "りゅうがくせい",
+                "definitions": [
+                    "international student"
+                ]
+            },
+            {
+                "word_id" : 128,
+                "kana": "わたし",
+                "definitions": [
+                    "I"
+                ]
+            }
+        ]
+    }
+]
